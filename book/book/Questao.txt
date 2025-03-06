@@ -1,0 +1,14 @@
+Considere um sistema de gerenciamento de biblioteca que utiliza listas encadeadas para armazenar informações sobre os livros disponíveis. Cada livro possui os seguintes dados: título, autor, ano de publicação e um número único de identificação.
+
+Implemente as seguintes operações usando TAD de lista encadeada:
+
+Inserir Livro: Crie uma função para inserir um novo livro na lista, garantindo que a lista permaneça ordenada pelo número de identificação (ID)do livro.
+
+Remover Livro: Implemente uma função que permita a remoção de um livro com base no número de identificação.
+
+Listar Livros de um Autor: Crie uma função que recebe o nome de um autor como parâmetro e retorna uma lista encadeada contendo todos os livros desse autor, ordenados por ano de publicação.
+
+Atualizar Ano de Publicação: Implemente uma função que, dado o número de identificação de um livro, atualize o ano de publicação desse livro.
+
+Quantidade de Livros por Autor: Crie uma função que retorna a quantidade total de livros presentes na lista, agrupados por autor.
+
