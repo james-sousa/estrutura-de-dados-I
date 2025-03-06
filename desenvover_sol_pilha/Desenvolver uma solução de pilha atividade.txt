@@ -1,0 +1,1 @@
+Desenvolver uma solução baseada em pilha que mostre uma sequencia de numeros lidos do teclado de forma inversa.
